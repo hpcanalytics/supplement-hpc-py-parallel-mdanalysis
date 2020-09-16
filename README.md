@@ -2,7 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/146852628.svg)](https://zenodo.org/badge/latestdoi/146852628)
 
-Supplementary material (scripts and documentation) for the paper _Parallel Performance of Molecular Dynamics Trajectory Analysis_, available as preprint [arXiv:1907.00097](https://arxiv.org/abs/1907.00097).
+Supplementary material (scripts and documentation) for the paper _Parallel Performance of Molecular Dynamics Trajectory Analysis_, available as preprint [arXiv:1907.00097](https://arxiv.org/abs/1907.00097) and published as
+
+M. Khoshlessan, I. Paraskevakos, G. C. Fox, S. Jha, and O. Beckstein, _Parallel performance of molecular dynamics trajectory analysis_, Concurrency and Computation: Practice and Experience, vol. 32, p. e5789, 2020. doi: [10.1002/cpe.5789](https://doi.org/10.1002/cpe.5789)
 
 For paper source files and data for figures see repository https://github.com/hpcanalytics/paper-hpc-py-parallel-mdanalysis. Each release of this repository is archived in the Zenodo repository under DOI [10.5281/zenodo.3351616](https://doi.org/10.5281/zenodo.3351616).
 
